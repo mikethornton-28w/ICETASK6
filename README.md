@@ -1,4 +1,4 @@
-# Sample Snack app
+# ICE TASK 6
 
 By aligning colors, gradients. and typography with each genre's mood, the app allows users to feel the energy whether calm lo-fi or vibrant EDM. This reveals the Vibe's purpose of blending sound and design into personal expression.
 
